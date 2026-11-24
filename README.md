@@ -76,8 +76,9 @@ plt.show()
 9   45   65000
 ```
 
-!
+![Histogram][Exp2-1.png]
 
 ## result
 
+The program was successfully executed using Pandas, Matplotlib and Seaborn. The histogram, scatter plot and boxplot were generated successfully.
 
