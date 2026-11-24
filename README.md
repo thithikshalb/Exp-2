@@ -76,7 +76,7 @@ plt.show()
 9   45   65000
 ```
 
-![Histogram](Exp2-1.png)
+![Histogram](exp2-1.png)
 
 ## result
 
