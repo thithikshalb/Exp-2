@@ -77,7 +77,10 @@ plt.show()
 ```
 
 ![Histogram](exp2-1.png)
+
 ![Scatter plot](exp2-2.png)
+
+![Boxplot](Exp2-3.png)
 
 ## result
 
